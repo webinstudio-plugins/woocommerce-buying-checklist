@@ -4,6 +4,10 @@ Review the payment, hosting and update requirements with your developer before b
 
 [Open the free interactive buying worksheet](https://demo.webinstudio.co.kr/resources/woo-buying/?utm_source=github&utm_medium=community&utm_campaign=webin_first_customer_202610&utm_content=woo_developer_checklist_en_v1). It exports your open questions as a text file. Answers remain in page memory and are not submitted. The website counts page views and product-link clicks separately from worksheet answers.
 
+## Review a vendor share after a refund
+
+[Download the free Excel worksheet](vendor-share-review.xlsx) and read [the calculation guide](VENDOR-SHARE-REVIEW.md). It reviews one USD order line using a percentage or fixed-per-unit vendor share and cumulative net refunds. The example inputs are fictional. Tax, shipping, prior payouts and payment fees are excluded, and the result does not confirm a transfer.
+
 ## Preorders: decide how the buyer pays
 
 - At checkout: verify the enabled gateway, cancellation and refund procedure.
