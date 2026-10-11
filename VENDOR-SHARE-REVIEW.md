@@ -31,6 +31,8 @@ This file does not import a store or reproduce Webin Vendor Workspace’s comple
 
 ## Verification and use
 
-On October 9, 2026, the worksheet was recalculated with 20 valid and invalid input cases. Ten valid cases were also compared directly with the product’s current net-share PHP calculation. The exported XLSX was reopened in the authoring engine, and its formulas and preview were checked. Microsoft Excel and Google Sheets operation have not been separately verified.
+On October 9, 2026, the worksheet was recalculated with 20 valid and invalid input cases. Ten valid cases were also compared directly with the product’s current net-share PHP calculation. The exported XLSX was reopened in the authoring engine, and its formulas and preview were checked. Microsoft Excel operation has not been separately verified.
+
+On October 11, 2026, a private copy of the same XLSX was converted to native Google Sheets. Ten valid cases recalculated to the expected amounts; ten invalid cases left the amounts blank and showed the expected warnings. The rule dropdown, formulas and formatting remained intact after restoring the original inputs. The sheet was reopened and visually checked at 100% zoom. This check covers the converted Google Sheets copy only.
 
 You may use and modify this worksheet for your own store or client planning. Preserve Webin Studio attribution and the calculation scope when redistributing it. This permission applies to this free worksheet and guide; it grants no license to the paid plugin.
