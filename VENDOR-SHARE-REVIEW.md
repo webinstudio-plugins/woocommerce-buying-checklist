@@ -25,7 +25,7 @@ This file does not import a store or reproduce Webin Vendor Workspace’s comple
 
 ## Check the product before buying
 
-[Open the free WooCommerce buying checklist](https://demo.webinstudio.co.kr/resources/woo-buying/?utm_source=github&utm_medium=community&utm_campaign=webin_first_customer_202610&utm_content=woo_developer_checklist_en_v1) for hosting, payment, updates and support questions.
+[Open the free WooCommerce buying checklist](https://demo.webinstudio.co.kr/resources/woo-buying/?utm_source=github&utm_medium=community&utm_campaign=webin_first_customer_202610&utm_content=woo_worksheet_vendor_en_v1) for hosting, payment, updates and support questions.
 
 [Webin Vendor Workspace product details](https://8819526221141.gumroad.com/l/cyqqdh) list the annual USD99 update/support service for one site and the current purchase terms. Using this free worksheet requires no purchase. It does not extend the product’s support or refund terms.
 
